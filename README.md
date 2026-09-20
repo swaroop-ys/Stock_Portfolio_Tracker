@@ -14,6 +14,8 @@ Calculate the total investment value of stocks based on manually defined stock p
 - Validates user input
 - Saves portfolio details to a text file
 
+- verification useful
+
 ## Available Stocks
 | Stock | Price |
 |---|---|
